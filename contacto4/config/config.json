@@ -1,0 +1,15 @@
+{
+    "files":{
+      "contactphotos":"http://localhost/contacto4/images/",
+      "contactsLocal" : "photos/",
+      "icons":"http://localhost/contacto4/images/icons/"
+    },
+ "mySqlConnection":{
+     "server" : "localhost",
+     "database" : "ejercicio1",
+     "user":"root",
+     "password":""
+ }
+
+}
+    
